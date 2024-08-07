@@ -642,7 +642,8 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
 **版本 14.1** 的注册机
 
-* [网页版](https://onecompiler.com/html/42najmcke) ，点右上角 `RUN`, 是俄文，所以开网页翻译，右边拉到最下。
+* [简化版](https://jirehlov.github.io/ac/)
+* [齐全版（支持的版本过多就不列了）](https://onecompiler.com/html/42najmcke) ，点右上角 `RUN`, 是俄文，所以开网页翻译，右边拉到最下。
 
 > 具体见 <https://github.com/TieBaMma/InstallTutorial/issues/136>
 
