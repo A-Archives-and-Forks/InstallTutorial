@@ -194,6 +194,21 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 另外，参看【Q3】。
 
+### Mathematica 14.1.0
+
+> **注意**
+>
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
+* 主程序及离线文档扩展包（主程序使用 setup.exe 安装，文档使用 M-WIN-Documentation.zh-Hans-cn-14.1.0-10622077.msi 安装，再强调一遍，**初学者请务必安装文档，不要嫌大！**）
+  * (14.1.0) Windows
+    * [百度网盘](https://pan.baidu.com/s/1sBXziw_jHw2bXZYOmECzEg?pwd=hn85)
+
 ### Mathematica 14.0.0
 
 > **注意**
