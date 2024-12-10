@@ -208,6 +208,8 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 主程序及离线文档扩展包（主程序使用 setup.exe 安装，文档使用 M-WIN-Documentation.zh-Hans-cn-14.1.0-10622077.msi 安装，再强调一遍，**初学者请务必安装文档，不要嫌大！**）
   * (14.1.0) Windows
     * [百度网盘](https://pan.baidu.com/s/1sBXziw_jHw2bXZYOmECzEg?pwd=hn85)
+  * (14.1.0) Windows/MacOS
+    * [见 issue](https://github.com/TieBaMma/InstallTutorial/issues/136), 网上有全系列安装包但是未确认过.
 
 ### Mathematica 14.0.0
 
@@ -598,6 +600,8 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 ### Wolfram SystemModeler 13 14
 
 * 主程序
+  * (14.1.0) Windows
+    * [issue](https://github.com/TieBaMma/InstallTutorial/issues/136)
   * (14.0.0) Windows + Mac + Linux
     * [BitTorrent 种子](https://wdm-tr.itsu.eu.org/?ver=SystemModeler_14.0.0)
   * (13.3.1) Windows + Mac + Linux
