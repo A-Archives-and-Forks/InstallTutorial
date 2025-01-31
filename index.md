@@ -194,6 +194,37 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 另外，参看【Q3】。
 
+### Mathematica 14.2.0
+
+> **注意**
+>
+> 从 13.1 开始，Windows, Mac 和 Linux 的主程序默认不再携带离线帮助文档，需要另行安装离线文档扩展包。Linux 同时提供附带帮助文档的安装包（文件名含有 `BNDL` 字样）。**通常情况下，仅当 Mathematica 主界面语言与离线文档扩展包的语言一致时，Mathematica 才会调用本地帮助文档。**
+> 更详细的内容参看[贴吧相关讨论](https://tieba.baidu.com/p/7675083708)。
+
+> **注意**
+>
+> 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
+
+* 主程序
+  * (14.2.0) Windows
+    * [百度网盘](https://pan.baidu.com/s/1pu5rz558Y7T0xrlgfeFHfg?pwd=fmhq)
+   
+  * (14.2.0) Mac
+    * [百度网盘](https://pan.baidu.com/s/1yMjCJSgRPj6hYHftxP8HGg?pwd=2mu3)
+      
+  * (14.2.0) Linux
+    * [百度网盘](https://pan.baidu.com/s/1RBdzZ44Qkk18HEvzRPu6vg?pwd=300o)
+         
+* 离线文档扩展包
+  * (14.2.0 英文) Windows
+    * [百度网盘](https://pan.baidu.com/s/1cvMeKFkw5c9gBrITQh8gjg?pwd=7grh)
+
+  * (14.2.0 英文) Mac
+    * [百度网盘](https://pan.baidu.com/s/1T3itCPOfVTt4LOa3QUbZQQ?pwd=om6k)
+      
+  * (14.2.0 英文) Linux
+    * [百度网盘](https://pan.baidu.com/s/1-CZEDwU83i47EAvU9BSGEA?pwd=64g5)
+      
 ### Mathematica 14.1.0
 
 > **注意**
@@ -659,7 +690,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
-**版本 14.1** 的注册机
+**版本 14.1 及 14.2** 的注册机
 
 * [简化版](https://jirehlov.github.io/ac/)
 * [齐全版（支持的版本过多就不列了）](https://onecompiler.com/html/42najmcke) ，点右上角 `RUN`, 是俄文，所以开网页翻译，右边拉到最下。
