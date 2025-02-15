@@ -224,6 +224,13 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
       
   * (14.2.0 英文) Linux
     * [百度网盘](https://pan.baidu.com/s/1-CZEDwU83i47EAvU9BSGEA?pwd=64g5)
+
+> **注意**
+>   
+> 修改时间为2024.12.27，
+> MD5为`fd76c1057c6619e79a08665fbc26b1c6`，
+> SHA-1为`ed9ec9434908882d7fe3cdaa0df9eefe1df8cd3bfc492dc81ce510569250d5e5`，
+> Installer ID为 M-WIN-Documentation.zh-Hans-cn-14.2.0-11189961 的中文离线文档**并没有翻译完**。
       
 ### Mathematica 14.1.0
 
