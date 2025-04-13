@@ -194,7 +194,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 
 另外，参看【Q3】。
 
-### Mathematica 14.2.0
+### Mathematica 14.2
 
 > **注意**
 >
@@ -206,23 +206,23 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > 从 12.1 开始，Mathematica 仅支持 64 位操作系统。从 12.2 开始，Mathematica 的 Windows 版仅支持 Win10 1709 及以上版本。其他系统要求也显著提高。更详细的内容参看[官方说明](https://support.wolfram.com/6479)。
 
 * 主程序
-  * (14.2.0) Windows
-    * [百度网盘](https://pan.baidu.com/s/1pu5rz558Y7T0xrlgfeFHfg?pwd=fmhq)
+  * (14.2.1) Windows
+    * [百度网盘](https://pan.baidu.com/s/1fAxD_4DwtsSZJfFTdKYD0Q?pwd=21hk)
    
-  * (14.2.0) Mac
-    * [百度网盘](https://pan.baidu.com/s/1yMjCJSgRPj6hYHftxP8HGg?pwd=2mu3)
+  * (14.2.1) Mac
+    * [百度网盘](https://pan.baidu.com/s/1UPuw5nwc1xUbmJkT0tQ9ww?pwd=pf7b)
       
-  * (14.2.0) Linux
-    * [百度网盘](https://pan.baidu.com/s/1RBdzZ44Qkk18HEvzRPu6vg?pwd=300o)
+  * (14.2.1) Linux
+    * [百度网盘](https://pan.baidu.com/s/1u_LqIHk3APi4m5xXZIDWWA?pwd=7y7j)
          
 * 离线文档扩展包
-  * (14.2.0 英文) Windows
+  * (14.2 英文) Windows
     * [百度网盘](https://pan.baidu.com/s/1cvMeKFkw5c9gBrITQh8gjg?pwd=7grh)
 
-  * (14.2.0 英文) Mac
+  * (14.2 英文) Mac
     * [百度网盘](https://pan.baidu.com/s/1T3itCPOfVTt4LOa3QUbZQQ?pwd=om6k)
       
-  * (14.2.0 英文) Linux
+  * (14.2 英文) Linux
     * [百度网盘](https://pan.baidu.com/s/1-CZEDwU83i47EAvU9BSGEA?pwd=64g5)
 
 > **注意**
@@ -231,6 +231,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 > MD5为`fd76c1057c6619e79a08665fbc26b1c6`，
 > SHA-1为`ed9ec9434908882d7fe3cdaa0df9eefe1df8cd3bfc492dc81ce510569250d5e5`，
 > Installer ID为 M-WIN-Documentation.zh-Hans-cn-14.2.0-11189961 的中文离线文档**并没有翻译完**。
+> 官方通过paclet在2025.3.14对该文档进行过更新，目前14.2新增函数页面似乎已全部翻译，但是截止2025.4.13，这些翻译没有整合为单一下载包，也就是说，当前如果想要使用14.2的中文文档，你必须：1. 下载安装未翻译完的14.2中文文档（**本教程暂未包含此文档的下载链**)。2. 让Mathematica联网更新paclet。
       
 ### Mathematica 14.1.0
 
