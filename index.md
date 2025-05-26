@@ -774,11 +774,11 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
    ![“Wolfram 产品激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003191901.png)
 
-3. 在新的页面中，选择**手动激活** (Manual Activation)。
+3. 在新的页面中，选择**手动激活** (Manual Activation)。（在高版本中本项已更名为“通过激活密钥和请求的密码离线激活”！）
 
    ![在其它方式激活中，选择手动激活](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192116.png)
 
-4. 在新的页面中，记下 **Math ID**。
+4. 在新的页面中，记下 **Math ID**（高版本中本项已更名为 MachineID！）。
 
    ![“手动激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192327.png)
 
