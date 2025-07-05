@@ -772,15 +772,15 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
    点击下方的**其它方式激活** (Other ways to activate)。（切记！不要说激活密钥无效，因为你选错了。）
 
-   ![“Wolfram 产品激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003191901.png)
+   ![“Wolfram 产品激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003191901.png?raw=true)
 
 3. 在新的页面中，选择**手动激活** (Manual Activation)。（在高版本中本项已更名为“通过激活密钥和请求的密码离线激活”！）
 
-   ![在其它方式激活中，选择手动激活](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192116.png)
+   ![在其它方式激活中，选择手动激活](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192116.png?raw=true)
 
 4. 在新的页面中，记下 **Math ID**（高版本中本项已更名为 MachineID！）。
 
-   ![“手动激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192327.png)
+   ![“手动激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192327.png?raw=true)
 
    注意，是**把你的电脑上的这串数复制下来**。不要抄上面的图！
 
@@ -796,7 +796,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 3. 将 Math ID 粘贴进注册机的 Math ID （第一个）输入框中。
 4. 回车，或者点击注册机下方 **Save mathpass**，得到 Activation Key 和 Password。
 
-   ![Mathematica 8 的注册机](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003193008.png)
+   ![Mathematica 8 的注册机](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003193008.png?raw=true)
 
    注意：图中所示的是老版注册机的界面，它的 Activation Key 的格式是 `4 位数字-4 位数字-5 位字母`，或者里面有 `::1`。
 
@@ -925,7 +925,7 @@ Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 
 ### 【Q6】出现问题“Assertion 'foundPrinterDevice'在 Printing.c:3950时失败”
 
-![Mathematica 启动错误](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/p.png)
+![Mathematica 启动错误](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/p.png?raw=true)
 
 【A6】打印机服务 (Print Spooler) 没开。
 
@@ -934,7 +934,7 @@ Activation Key 和 Password 是对应于 Math ID 的，跟硬件设备无关。
 
 ### 【Q6.5】出现 `Error code: 698`，内核可以启动，但主程序（前端）无法启动
 
-![Error code 698](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/Q6.5.jpg)
+![Error code 698](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/Q6.5.jpg?raw=true)
 
 【A6.5】
 
@@ -1081,13 +1081,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q12】为什么每次点开注册机都出现“已停止工作”
 
-![注册机已停止工作，在 Windows 8](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/cbe931d12f2eb9382e656ae2d1628535e5dd6fa0.jpg)
+![注册机已停止工作，在 Windows 8](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/cbe931d12f2eb9382e656ae2d1628535e5dd6fa0.jpg?raw=true)
 
 【A12】前文已经说了，请安装 VC 运行库。
 
 ### 【Q13】使用没问题，但界面出现乱码，如图
 
-![Mathematica 9 界面乱码，在 Windows 7](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/a974ddb44aed2e738fbdd03b8301a18b87d6fa5b.jpg)
+![Mathematica 9 界面乱码，在 Windows 7](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/a974ddb44aed2e738fbdd03b8301a18b87d6fa5b.jpg?raw=true)
 
 【A13】似乎存在多种原因。
 
@@ -1105,13 +1105,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Mathematica
 
 ### 【Q16】安装完后打开出现未响应，如图所示
 
-![Wolfram Mathematica 10.3 未响应，在 Windows 7](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/Q16.jpg)
+![Wolfram Mathematica 10.3 未响应，在 Windows 7](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/Q16.jpg?raw=true)
 
 【A16】 原因是，没更新 Windows 的一个补丁。如果你把自动更新关了，打开更新，更新内容里有 Windows Service Pack，更新之后重新安装即可。
 
 ### 【Q17】 安装的时候出现无响应，如下图
 
-![Wolfram Mathematica 10.4 已停止工作，在 Windows 7](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/%E6%88%AA%E5%9B%BE.png)
+![Wolfram Mathematica 10.4 已停止工作，在 Windows 7](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/%E6%88%AA%E5%9B%BE.png?raw=true)
 
 【A17】软件必须安装在**英文**名称的路径下。
 
