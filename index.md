@@ -774,13 +774,25 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 
    ![“Wolfram 产品激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003191901.png?raw=true)
 
-3. 在新的页面中，选择**手动激活** (Manual Activation)。（在高版本中本项已更名为“通过激活密钥和请求的密码离线激活”！）
+   以下是14.2版的界面：
+
+   ![14.2版 Wolfram 产品激活对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%EF%BC%88v14.2%EF%BC%89/1.png?raw=true)
+
+4. 在新的页面中，选择**手动激活** (Manual Activation)。（在高版本中本项已更名为“通过激活密钥和请求的密码离线激活”！）
 
    ![在其它方式激活中，选择手动激活](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192116.png?raw=true)
 
-4. 在新的页面中，记下 **Math ID**（高版本中本项已更名为 MachineID！）。
+   以下是14.2版的界面：
+
+   ![14.2版：通过激活密钥和请求的密码离线激活](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%EF%BC%88v14.2%EF%BC%89/2.png?raw=true)
+
+6. 在新的页面中，记下 **Math ID**（高版本中本项已更名为 MachineID！）。
 
    ![“手动激活”对话框](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20151003192327.png?raw=true)
+
+以下是14.2版的界面：
+
+   ![14.2版：MachineID界面](https://github.com/TieBaMma/InstallTutorial/blob/gh-pages/Mma%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%E7%89%87/%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B%E7%94%A8%E5%9B%BE%EF%BC%88v14.2%EF%BC%89/3.png?raw=true)
 
    注意，是**把你的电脑上的这串数复制下来**。不要抄上面的图！
 
