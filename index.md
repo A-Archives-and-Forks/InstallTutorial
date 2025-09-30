@@ -733,7 +733,7 @@ Mathematica 1.2 英文版（DOS 版）[百度网盘](https://pan.baidu.com/s/1eR
 >
 > 再强调一遍，**询问为什么一回车注册机就关了的，直接删，加封禁十天**。
 
-**版本 14.1 及 14.2** 的注册机
+**版本 14.1 及以上**的注册机
 
 * [简化版](https://jirehlov.github.io/ac/)
 * [齐全版（支持的版本过多就不列了）](https://onecompiler.com/html/42najmcke) ，点右上角 `RUN`, 是俄文，所以开网页翻译，右边拉到最下。
