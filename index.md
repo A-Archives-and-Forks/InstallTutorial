@@ -217,7 +217,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
          
 * 离线文档扩展包
   * (14.3.0 中文) Windows
-    * [百度网盘](https://pan.baidu.com/s/1As-A3x2UekEn1k_1zSLCFg?pwd=a9hf)
+    * [百度网盘](https://pan.baidu.com/s/1ofU7oNec0OQUZ-gXe1h_6Q?pwd=nqk3)
 
   * (14.3.0 中文) Mac
     * [百度网盘](https://pan.baidu.com/s/1DiMKjvQ3igx1HhG1HC6LQQ?pwd=3tc9)
