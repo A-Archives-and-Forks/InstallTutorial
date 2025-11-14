@@ -223,7 +223,7 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [百度网盘](https://pan.baidu.com/s/1DiMKjvQ3igx1HhG1HC6LQQ?pwd=3tc9)
       
   * (14.3.0 中文) Linux
-    * [百度网盘](https://pan.baidu.com/s/13fSbdzY37RTt-9ZHAg4a4g?pwd=pn57)
+    * [百度网盘](https://pan.baidu.com/s/1MIRNB_m0Yz6RaNISdrg-Vg?pwd=ewj8)
 
 > **注意**
 >
