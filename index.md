@@ -220,14 +220,10 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
     * [百度网盘](https://pan.baidu.com/s/1ofU7oNec0OQUZ-gXe1h_6Q?pwd=nqk3)
 
   * (14.3.0 中文) Mac
-    * [百度网盘](https://pan.baidu.com/s/1DiMKjvQ3igx1HhG1HC6LQQ?pwd=3tc9)
+    * [百度网盘](https://pan.baidu.com/s/1G5f2KO0lYo6gpNRzfcVS2A?pwd=cutm)
       
   * (14.3.0 中文) Linux
     * [百度网盘](https://pan.baidu.com/s/1MIRNB_m0Yz6RaNISdrg-Vg?pwd=ewj8)
-
-> **注意**
->
-> 修改时间为2025.7.16，Installer ID为 M-WIN-Documentation.zh-Hans-cn-14.3.0-11969662 的中文离线文档**又没有翻译完**。但本次受影响的函数较少（仅十余个）。
 
 ### Mathematica 14.2
 
