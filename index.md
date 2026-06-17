@@ -209,10 +209,22 @@ Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolf
 * 主程序
   * (15.0) Windows
     * [百度网盘](https://pan.baidu.com/s/1v7egS0nGYwekKb4bXRwlBA?pwd=tptb)
-         
+
+  * (15.0) Mac
+    * [百度网盘](https://pan.baidu.com/s/1H82UoeuweZhBOJlnCeBG8w?pwd=behg)
+
+  * (15.0) Linux
+    * [百度网盘](https://pan.baidu.com/s/1Terdru1PUcZzTuG8pY9zfg?pwd=cvhm)
+     
 * 离线文档扩展包
   * (15.0 中文) Windows
     * [百度网盘](https://pan.baidu.com/s/1Sz9Ac2qy2E7e0mRNyr5LKg?pwd=4mxt)
+
+  * (15.0 中文) Mac
+    * [百度网盘](https://pan.baidu.com/s/1_asjwpvPKR8wKkyY-I7Acg?pwd=68sd)
+
+  * (15.0 中文) Linux
+    * [百度网盘](https://pan.baidu.com/s/1uHHpd_wmlV1kjXq0hBxYxQ?pwd=8gyd)
 
 ### Mathematica 14.3
 
