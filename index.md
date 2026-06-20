@@ -48,8 +48,9 @@ title: {{ site.title }}
 2. [WL JS](https://jerryi.github.io/wljs-docs/) 开发中, 效果见文档。
 3. [官方 WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter), [体验不好](https://tieba.baidu.com/p/6149032404)
 4. [Wolfram Language Server](https://zhuanlan.zhihu.com/p/74921013), 配置方法见 [为 WolframEngine 配置 VSCode（Windows）](https://gitee.com/asdasd1dsadsa/ZhiHu-asdasd1dsadsa/blob/master/Article/%E4%B8%BAWolframEngine%E9%85%8D%E7%BD%AEVSCode%EF%BC%88Windows%EF%BC%89.md)，体验接近 [IDE](https://www.wolfram.com/workbench/?source=footer)
-5. [Official Visual Studio Code extension for Wolfram Language](https://github.com/WolframResearch/vscode-wolfram)
-6. [其余的](https://mathematica.stackexchange.com/q/198839/1871)[方案](https://news.ycombinator.com/item?id=48563609#48565246)
+5. [第三方 VS Code 插件 wolfbook](https://github.com/vanbaalon/wolfbook)
+6. [Official Visual Studio Code extension for Wolfram Language](https://github.com/WolframResearch/vscode-wolfram)
+7. [其余的](https://mathematica.stackexchange.com/q/198839/1871)[方案](https://news.ycombinator.com/item?id=48563609#48565246)
 
 Wolfram Engine 的激活方法可参考官网的介绍 [How do I set up the Wolfram Engine](https://support.wolfram.com/kb/45743)。
 
