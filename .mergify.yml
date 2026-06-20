@@ -39,7 +39,7 @@ pull_request_rules:
       - "-draft"
     actions:
       assign:
-        users: ["{{author}}"]
+        users: ["{{ author }}"]
       request_reviews:
         users: ["TieBaMma"]
 
@@ -48,14 +48,14 @@ pull_request_rules:
       - "draft"
     actions:
       assign:
-        users: ["{{author}}"]
+        users: ["{{ author }}"]
 
   - name: Assign the author because its title contains `WIP`
     conditions:
       - 'title~=(?i)\bWIP\b'
     actions:
       assign:
-        users: ["{{author}}"]
+        users: ["{{ author }}"]
 
   - name: Ask to remove `WIP` from title before merge
     conditions:
